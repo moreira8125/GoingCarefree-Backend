@@ -1,6 +1,7 @@
 {
     "cities": [
       {
+        "id":1,
         "name": "Royal London Retreat",
         "city": "London",
         "country": "England",
@@ -10,9 +11,11 @@
         "price": 700,
         "hotel": "Central Park Hotel",
         "destinationType" : "City",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Experience the allure of London's rich history and modern vibrancy on the ultimate Royal London Retreat – where every corner holds a new adventure waiting to be discovered."
       },
       {
+        "id":2,
         "name": "Parisian Rendezvous",
         "city": "Paris",
         "country": "France",
@@ -22,9 +25,11 @@
         "price": 550,
         "hotel": "Hôtel des Bains",
         "destinationType" : "City",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Discover the irresistible charm of Paris with our exclusive \"Parisian Rendezvous\" package – a journey through cobblestone streets, romantic river cruises, and culinary delights awaits. Click now to immerse yourself in the essence of Parisian splendor!"
       },
       {
+        "id":3,
         "name": "Há Descoberta do Porto",
         "city": "Porto",
         "country": "Portugal",
@@ -34,9 +39,11 @@
         "price": 400,
         "hotel": "Hotel Vincci Porto",
         "destinationType" : "City",
-        "pensionType": "Bed and Breakfast"
+        "pensionType": "Bed and Breakfast",
+        "hook": "Experience the charm of Porto's historic streets and scenic riverbanks with our \"Há Descoberta do Porto\" package. From tasting port wine to exploring UNESCO-listed landmarks, immerse yourself in Portuguese culture. Click now for an unforgettable journey through Porto's vibrant history and charm!"
       },
       {
+        "id":4,
         "name": "Amsterdam Canal Adventure",
         "city": "Amsterdam",
         "country": "Netherlands",
@@ -46,9 +53,11 @@
         "price": 500,
         "hotel": "Hotel Levell",
         "destinationType" : "City",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Experience Amsterdam's iconic canals and rich culture with our Amsterdam Canal Experience package. Glide past historic houses, explore museums, and savor Dutch cuisine. Click to embrace Amsterdam's charm!"
       },
       {
+        "id":5,
         "name": "Madrid Disfrutar Plan",
         "city": "Madrid",
         "country": "Spain",
@@ -58,9 +67,11 @@
         "price": 500,
         "hotel": "Riu Plaza España",
         "destinationType" : "City",
-        "pensionType": "Bed and Breakfast"
+        "pensionType": "Bed and Breakfast",
+        "hook": "Embark on an unforgettable journey through Madrid with our \"Madrid Disfrutar Plan\" package. Explore iconic landmarks, charming neighborhoods, and savor Spanish cuisine. Click now for an unforgettable experience in the heart of Spain's vibrant capital!"
       },
       {
+        "id":6,
         "name": "Icelandic Adventure Expedition",
         "city": "Reykjavik",
         "country": "Iceland",
@@ -70,9 +81,11 @@
         "price": 1200,
         "hotel": "The Retreat at Blue Lagoon Iceland",
         "destinationType" : "Nature",
-        "pensionType": "Full Board"
+        "pensionType": "Full Board",
+        "hook": "Embark on an Icelandic Adventure Expedition to witness the Northern Lights and explore Reykjavik's vibrant culture. Click now for an unforgettable journey into Iceland's untamed wilderness!"
       },
       {
+        "id":7,
         "name": "Grand Canyon Wilderness Experience",
         "city": "Arizona",
         "country": "USA",
@@ -82,9 +95,11 @@
         "price": 1300,
         "hotel": "Little America Hotel Flagstaff",
         "destinationType" : "Nature",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Embark on a breathtaking Grand Canyon Wilderness Experience, delving deep into nature's wonder. Marvel at towering cliffs, vibrant rock formations, and camp under starlit skies. Click now for an unforgettable adventure in one of the world's most iconic natural wonders!"
       },
       {
+        "id":8,
         "name": "Azores Island Escape",
         "city": "São Miguel",
         "country": "Portugal",
@@ -94,9 +109,11 @@
         "price": 450,
         "hotel": "Pestana Bahia Praia",
         "destinationType" : "Nature",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Embark on an unforgettable Azores Island Escape, discovering the unspoiled beauty of this remote paradise. Explore lush trails, dive into crystal-clear waters, and immerse yourself in rich cultural heritage. Click now for an unforgettable adventure in Europe's best-kept secret!"
       },
       {
+        "id":9,
         "name": "Vilamoura Coastal Retreat",
         "city": "Vilamoura",
         "country": "Portugal",
@@ -106,9 +123,11 @@
         "price": 1700,
         "hotel": "Domes Lake Resort",
         "destinationType" : "Beach and Sun",
-        "pensionType": "Bed and Breakfast"
+        "pensionType": "Bed and Breakfast",
+        "hook": "Experience coastal luxury at its finest with our \"Vilamoura Coastal Retreat\" package. From pristine beaches to championship golf courses, indulge in relaxation and adventure along the stunning Algarve coastline. Click now for an unforgettable escape in paradise!"
       },
       {
+        "id":10,
         "name": "Fuerteventura Sun & Sand Escape",
         "city": "Fuerteventura",
         "country": "Spain",
@@ -118,9 +137,11 @@
         "price": 1100,
         "hotel": "Alma Calma Hotel Rural",
         "destinationType" : "Beach and Sun",
-        "pensionType": "Full Board"
+        "pensionType": "Full Board",
+        "hook": "Embark on a sun-soaked adventure to Fuerteventura with our \"Fuerteventura Sun & Sand Escape\" package. Dive into crystal-clear waters for water sports or explore volcanic landscapes. Click now for an unforgettable island retreat in the Canary Islands!"
       },
       {
+        "id":11,
         "name": "Gold Coast Surfing Challenge",
         "city": "Gold Coast",
         "country": "Australia",
@@ -130,9 +151,11 @@
         "price": 2200,
         "hotel": "Vibe Hotel Gold Coast",
         "destinationType" : "Beach and Sun",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Experience the sun-drenched shores of Australia's Gold Coast with our \"Gold Coast Paradise Retreat\" package. Dive into thrilling water sports adventures, explore vibrant coastal culture, and unwind in luxurious accommodations. Click now for an unforgettable Australian getaway in paradise!"
       },
       {
+        "id":12,
         "name": "Monchique Mountain Immersion",
         "city": "Monchique",
         "country": "Portugal",
@@ -142,9 +165,11 @@
         "price": 520,
         "hotel": "Monchique Resort and Spa",
         "destinationType" : "Wellness",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Embark on a journey of exploration and tranquility with our \"Monchique Mountain Immersion\" package. Discover lush landscapes, hidden waterfalls, and healing thermal springs amidst the serene beauty of the Algarve. Click now for an unforgettable journey into Portugal's countryside!"
       },
       {
+        "id":13,
         "name": "Granada Wellness Yoga Retreat",
         "city": "Granada",
         "country": "Spain",
@@ -154,9 +179,11 @@
         "price": 700,
         "hotel": "Melia Sierra Nevada",
         "destinationType" : "Wellness",
-        "pensionType": "Full Board"
+        "pensionType": "Full Board",
+        "hook": "Embark on a rejuvenating journey to Granada with our \"Granada Wellness Yoga Retreat\" package, offering daily yoga sessions, rejuvenating spa treatments, and serene surroundings in the heart of Andalusia. Click now for an unforgettable experience of relaxation and self-discovery!"
       },
       {
+        "id":14,
         "name": "Kenya Safari Adventure",
         "city": "Nairobi",
         "country": "Kenya",
@@ -166,9 +193,11 @@
         "price": 1200,
         "hotel": "Ol Donyo Lodge",
         "destinationType" : "Nature",
-        "pensionType": "All Inclusive"
+        "pensionType": "All Inclusive",
+        "hook": "Embark on an exhilarating Kenya Safari Adventure, exploring iconic national parks and encountering diverse wildlife in their natural habitat. Witness the Great Migration and immerse yourself in Maasai culture amidst luxurious safari lodges. Click now for an unforgettable journey into the heart of Africa's safari paradise!"
       },
       {
+        "id":15,
         "name": "Istanbul Image Restoration Getaway",
         "city": "Istanbul",
         "country": "Turkey",
@@ -178,7 +207,8 @@
         "price": 2700,
         "hotel": "Melas Hotel Istanbul",
         "destinationType" : "Health",
-        "pensionType": "Half Board"
+        "pensionType": "Half Board",
+        "hook": "Embark on a revitalizing Istanbul Image Restoration Getaway. Restore confidence with leading specialists and innovative treatments in the heart of medical tourism excellence. Click now for a transformative experience!"
       }
     ],
 
